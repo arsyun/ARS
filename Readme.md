@@ -1,12 +1,12 @@
 ## Catalog
 
-- [Company profile](#company profile)
+- Company profile
 	- [profile](#profile)
 	- [website](#website)
-- [main products](#main products)
+- main products
 	- [pServer](#pserver)
-- [Application base on IPFS and libp2p](#application base on ipfs and libp2p)
-	- [pServer shared circle application based ipfs](pserver shared circle application based ipfs)
+- Application base on IPFS and libp2p
+	- pServer shared circle application based ipfs
 
 
 
