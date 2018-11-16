@@ -7,7 +7,7 @@
 	- [pServer](#pserver)
 - Application base on IPFS and libp2p
 	- pServer shared circle application based ipfs
-
+- [github-opensource](#github-opensource)
 
 
 ## Company profile
@@ -52,3 +52,10 @@ Private cloud server provides basic storage and other service expansion, as show
 pServer private cloud shared circle function is that a part of pServer private cloud users form an interest circle, every member participating in the circle needs to share a certain har disk space with the circle, and the circle space is used for resource sharing, comment and interaction in the circle.
 It means that every circle member can access a shared space jointly formed by circle members, as shown in below Fig.
 ![](/img/5.png)
+
+## github-opensource
+- company-profile:    ars
+- pserver opensrouce:    pserver
+- pm:    pm
+- ipfs-common opensource:    ipfs-common
+- ipfs-application opensource: ipfs-application
