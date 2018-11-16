@@ -54,8 +54,8 @@ It means that every circle member can access a shared space jointly formed by ci
 ![](/img/5.png)
 
 ## github-opensource
-- [company-profile](/ars)
-- [pserver opensrouce](/pserver)
-- [pm](/pm)
-- [ipfs-common opensource](/ipfs-common)
-- [ipfs-application opensource](/ipfs-application)
+- company-profile:    ars
+- pserver opensrouce:    pserver
+- pm:    pm
+- ipfs-common opensource:    ipfs-common
+- ipfs-application opensource: ipfs-application
